@@ -1,0 +1,2149 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "modelengine:nocsy_drakonin/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "modelengine:nocsy_drakonin/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "modelengine:nocsy_drakonin/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "modelengine:nocsy_drakonin/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "modelengine:nocsy_drakonin/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "modelengine:nocsy_drakonin/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "modelengine:nocsy_drakonin/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "modelengine:nocsy_drakonin/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "modelengine:nocsy_drakonin/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "modelengine:nocsy_drakonin/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "modelengine:nocsy_drakonin/right_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "modelengine:nocsy_drakonin/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "modelengine:nocsy_drakonin/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "modelengine:nocsy_drakonin/left_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "modelengine:nocsy_drakonin/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "modelengine:nocsy_drakonin/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "modelengine:nocsy_drakonin/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "modelengine:nocsy_drakonin/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1018
+      },
+      "model": "modelengine:nocsy_drakonin/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1019
+      },
+      "model": "modelengine:nocsy_drakonin/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1020
+      },
+      "model": "modelengine:nocsy_drakonin/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1021
+      },
+      "model": "modelengine:nocsy_drakonin/tail_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1022
+      },
+      "model": "modelengine:nocsy_drakonin/tail_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1023
+      },
+      "model": "modelengine:nocsy_drakonin/tail_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1024
+      },
+      "model": "modelengine:nocsy_drakonin2/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1025
+      },
+      "model": "modelengine:nocsy_drakonin2/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1026
+      },
+      "model": "modelengine:nocsy_drakonin2/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1027
+      },
+      "model": "modelengine:nocsy_drakonin2/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1028
+      },
+      "model": "modelengine:nocsy_drakonin2/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1029
+      },
+      "model": "modelengine:nocsy_drakonin2/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1030
+      },
+      "model": "modelengine:nocsy_drakonin2/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1031
+      },
+      "model": "modelengine:nocsy_drakonin2/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1032
+      },
+      "model": "modelengine:nocsy_drakonin2/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1033
+      },
+      "model": "modelengine:nocsy_drakonin2/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1034
+      },
+      "model": "modelengine:nocsy_drakonin2/left_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1035
+      },
+      "model": "modelengine:nocsy_drakonin2/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1036
+      },
+      "model": "modelengine:nocsy_drakonin2/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1037
+      },
+      "model": "modelengine:nocsy_drakonin2/right_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1038
+      },
+      "model": "modelengine:nocsy_drakonin2/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1039
+      },
+      "model": "modelengine:nocsy_drakonin2/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1040
+      },
+      "model": "modelengine:nocsy_drakonin2/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1041
+      },
+      "model": "modelengine:nocsy_drakonin2/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1042
+      },
+      "model": "modelengine:nocsy_drakonin2/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1043
+      },
+      "model": "modelengine:nocsy_drakonin2/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1044
+      },
+      "model": "modelengine:nocsy_drakonin2/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1045
+      },
+      "model": "modelengine:nocsy_drakonin2/tail_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1046
+      },
+      "model": "modelengine:nocsy_drakonin2/tail_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1047
+      },
+      "model": "modelengine:nocsy_drakonin2/tail_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1048
+      },
+      "model": "modelengine:nocsy_drakonin3/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1049
+      },
+      "model": "modelengine:nocsy_drakonin3/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1050
+      },
+      "model": "modelengine:nocsy_drakonin3/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1051
+      },
+      "model": "modelengine:nocsy_drakonin3/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1052
+      },
+      "model": "modelengine:nocsy_drakonin3/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1053
+      },
+      "model": "modelengine:nocsy_drakonin3/right_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1054
+      },
+      "model": "modelengine:nocsy_drakonin3/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1055
+      },
+      "model": "modelengine:nocsy_drakonin3/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1056
+      },
+      "model": "modelengine:nocsy_drakonin3/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1057
+      },
+      "model": "modelengine:nocsy_drakonin3/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1058
+      },
+      "model": "modelengine:nocsy_drakonin3/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1059
+      },
+      "model": "modelengine:nocsy_drakonin3/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1060
+      },
+      "model": "modelengine:nocsy_drakonin3/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1061
+      },
+      "model": "modelengine:nocsy_drakonin3/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1062
+      },
+      "model": "modelengine:nocsy_drakonin3/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1063
+      },
+      "model": "modelengine:nocsy_drakonin3/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1064
+      },
+      "model": "modelengine:nocsy_drakonin3/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1065
+      },
+      "model": "modelengine:nocsy_drakonin3/tail_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1066
+      },
+      "model": "modelengine:nocsy_drakonin3/tail_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1067
+      },
+      "model": "modelengine:nocsy_drakonin3/tail_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1068
+      },
+      "model": "modelengine:nocsy_drakonin4/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1069
+      },
+      "model": "modelengine:nocsy_drakonin4/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1070
+      },
+      "model": "modelengine:nocsy_drakonin4/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1071
+      },
+      "model": "modelengine:nocsy_drakonin4/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1072
+      },
+      "model": "modelengine:nocsy_drakonin4/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1073
+      },
+      "model": "modelengine:nocsy_drakonin4/right_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1074
+      },
+      "model": "modelengine:nocsy_drakonin4/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1075
+      },
+      "model": "modelengine:nocsy_drakonin4/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1076
+      },
+      "model": "modelengine:nocsy_drakonin4/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1077
+      },
+      "model": "modelengine:nocsy_drakonin4/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1078
+      },
+      "model": "modelengine:nocsy_drakonin4/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1079
+      },
+      "model": "modelengine:nocsy_drakonin4/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1080
+      },
+      "model": "modelengine:nocsy_drakonin4/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1081
+      },
+      "model": "modelengine:nocsy_drakonin4/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1082
+      },
+      "model": "modelengine:nocsy_drakonin4/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1083
+      },
+      "model": "modelengine:nocsy_drakonin4/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1084
+      },
+      "model": "modelengine:nocsy_drakonin4/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1085
+      },
+      "model": "modelengine:nocsy_drakonin4/tail_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1086
+      },
+      "model": "modelengine:nocsy_drakonin4/tail_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1087
+      },
+      "model": "modelengine:nocsy_drakonin4/tail_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1088
+      },
+      "model": "modelengine:nocsy_drakonin4/tail_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1089
+      },
+      "model": "modelengine:nocsy_drakonin5/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1090
+      },
+      "model": "modelengine:nocsy_drakonin5/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1091
+      },
+      "model": "modelengine:nocsy_drakonin5/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1092
+      },
+      "model": "modelengine:nocsy_drakonin5/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1093
+      },
+      "model": "modelengine:nocsy_drakonin5/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1094
+      },
+      "model": "modelengine:nocsy_drakonin5/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1095
+      },
+      "model": "modelengine:nocsy_drakonin5/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1096
+      },
+      "model": "modelengine:nocsy_drakonin5/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1097
+      },
+      "model": "modelengine:nocsy_drakonin5/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1098
+      },
+      "model": "modelengine:nocsy_drakonin5/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1099
+      },
+      "model": "modelengine:nocsy_drakonin5/left_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1100
+      },
+      "model": "modelengine:nocsy_drakonin5/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1101
+      },
+      "model": "modelengine:nocsy_drakonin5/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1102
+      },
+      "model": "modelengine:nocsy_drakonin5/right_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1103
+      },
+      "model": "modelengine:nocsy_drakonin5/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1104
+      },
+      "model": "modelengine:nocsy_drakonin5/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1105
+      },
+      "model": "modelengine:nocsy_drakonin5/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1106
+      },
+      "model": "modelengine:nocsy_drakonin5/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1107
+      },
+      "model": "modelengine:nocsy_drakonin5/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1108
+      },
+      "model": "modelengine:nocsy_drakonin5/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1109
+      },
+      "model": "modelengine:nocsy_drakonin5/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1110
+      },
+      "model": "modelengine:nocsy_drakonin5/tail_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1111
+      },
+      "model": "modelengine:nocsy_drakonin5/tail_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1112
+      },
+      "model": "modelengine:nocsy_drakonin5/tail_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1113
+      },
+      "model": "modelengine:nocsy_drakonin6/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1114
+      },
+      "model": "modelengine:nocsy_drakonin6/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1115
+      },
+      "model": "modelengine:nocsy_drakonin6/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1116
+      },
+      "model": "modelengine:nocsy_drakonin6/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1117
+      },
+      "model": "modelengine:nocsy_drakonin6/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1118
+      },
+      "model": "modelengine:nocsy_drakonin6/right_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1119
+      },
+      "model": "modelengine:nocsy_drakonin6/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1120
+      },
+      "model": "modelengine:nocsy_drakonin6/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1121
+      },
+      "model": "modelengine:nocsy_drakonin6/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1122
+      },
+      "model": "modelengine:nocsy_drakonin6/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1123
+      },
+      "model": "modelengine:nocsy_drakonin6/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1124
+      },
+      "model": "modelengine:nocsy_drakonin6/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1125
+      },
+      "model": "modelengine:nocsy_drakonin6/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1126
+      },
+      "model": "modelengine:nocsy_drakonin6/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1127
+      },
+      "model": "modelengine:nocsy_drakonin6/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1128
+      },
+      "model": "modelengine:nocsy_drakonin6/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1129
+      },
+      "model": "modelengine:nocsy_drakonin6/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1130
+      },
+      "model": "modelengine:nocsy_drakonin6/tail_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1131
+      },
+      "model": "modelengine:nocsy_drakonin6/tail_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1132
+      },
+      "model": "modelengine:nocsy_drakonin6/tail_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1133
+      },
+      "model": "modelengine:nocsy_drakonin7/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1134
+      },
+      "model": "modelengine:nocsy_drakonin7/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1135
+      },
+      "model": "modelengine:nocsy_drakonin7/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1136
+      },
+      "model": "modelengine:nocsy_drakonin7/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1137
+      },
+      "model": "modelengine:nocsy_drakonin7/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1138
+      },
+      "model": "modelengine:nocsy_drakonin7/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1139
+      },
+      "model": "modelengine:nocsy_drakonin7/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1140
+      },
+      "model": "modelengine:nocsy_drakonin7/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1141
+      },
+      "model": "modelengine:nocsy_drakonin7/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1142
+      },
+      "model": "modelengine:nocsy_drakonin7/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1143
+      },
+      "model": "modelengine:nocsy_drakonin7/left_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1144
+      },
+      "model": "modelengine:nocsy_drakonin7/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1145
+      },
+      "model": "modelengine:nocsy_drakonin7/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1146
+      },
+      "model": "modelengine:nocsy_drakonin7/right_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1147
+      },
+      "model": "modelengine:nocsy_drakonin7/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1148
+      },
+      "model": "modelengine:nocsy_drakonin7/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1149
+      },
+      "model": "modelengine:nocsy_drakonin7/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1150
+      },
+      "model": "modelengine:nocsy_drakonin7/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1151
+      },
+      "model": "modelengine:nocsy_drakonin7/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1152
+      },
+      "model": "modelengine:nocsy_drakonin7/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1153
+      },
+      "model": "modelengine:nocsy_drakonin7/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1154
+      },
+      "model": "modelengine:nocsy_drakonin7/tail_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1155
+      },
+      "model": "modelengine:nocsy_drakonin7/tail_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1156
+      },
+      "model": "modelengine:nocsy_drakonin7/tail_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1157
+      },
+      "model": "modelengine:nocsy_drakonin8/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1158
+      },
+      "model": "modelengine:nocsy_drakonin8/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1159
+      },
+      "model": "modelengine:nocsy_drakonin8/right_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1160
+      },
+      "model": "modelengine:nocsy_drakonin8/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1161
+      },
+      "model": "modelengine:nocsy_drakonin8/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1162
+      },
+      "model": "modelengine:nocsy_drakonin8/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1163
+      },
+      "model": "modelengine:nocsy_drakonin8/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1164
+      },
+      "model": "modelengine:nocsy_drakonin8/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1165
+      },
+      "model": "modelengine:nocsy_drakonin8/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1166
+      },
+      "model": "modelengine:nocsy_drakonin8/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1167
+      },
+      "model": "modelengine:nocsy_drakonin8/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1168
+      },
+      "model": "modelengine:nocsy_drakonin8/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1169
+      },
+      "model": "modelengine:nocsy_drakonin8/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1170
+      },
+      "model": "modelengine:nocsy_drakonin8/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1171
+      },
+      "model": "modelengine:nocsy_drakonin8/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1172
+      },
+      "model": "modelengine:nocsy_drakonin8/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1173
+      },
+      "model": "modelengine:nocsy_drakonin8/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1174
+      },
+      "model": "modelengine:nocsy_drakonin8/tail_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1175
+      },
+      "model": "modelengine:nocsy_drakonin8/tail_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1176
+      },
+      "model": "modelengine:nocsy_drakonin8/tail_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1177
+      },
+      "model": "modelengine:nocsy_drakonin8/tail_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2000
+      },
+      "model": "modelengine:nocsy_drakonin_baby/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2001
+      },
+      "model": "modelengine:nocsy_drakonin_baby/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "modelengine:nocsy_drakonin_baby/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2003
+      },
+      "model": "modelengine:nocsy_drakonin_baby/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2004
+      },
+      "model": "modelengine:nocsy_drakonin_baby/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2005
+      },
+      "model": "modelengine:nocsy_drakonin_baby/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2006
+      },
+      "model": "modelengine:nocsy_drakonin_baby/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2007
+      },
+      "model": "modelengine:nocsy_drakonin_baby/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2008
+      },
+      "model": "modelengine:nocsy_drakonin_baby/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2009
+      },
+      "model": "modelengine:nocsy_drakonin_baby/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2010
+      },
+      "model": "modelengine:nocsy_drakonin_baby/left_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2011
+      },
+      "model": "modelengine:nocsy_drakonin_baby/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2012
+      },
+      "model": "modelengine:nocsy_drakonin_baby/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013
+      },
+      "model": "modelengine:nocsy_drakonin_baby/right_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2014
+      },
+      "model": "modelengine:nocsy_drakonin_baby/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2015
+      },
+      "model": "modelengine:nocsy_drakonin_baby/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2016
+      },
+      "model": "modelengine:nocsy_drakonin_baby/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2017
+      },
+      "model": "modelengine:nocsy_drakonin_baby/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2018
+      },
+      "model": "modelengine:nocsy_drakonin_baby/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2019
+      },
+      "model": "modelengine:nocsy_drakonin_baby/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2020
+      },
+      "model": "modelengine:nocsy_drakonin_baby/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2021
+      },
+      "model": "modelengine:nocsy_drakonin_baby/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2022
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2023
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2024
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2025
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2026
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2027
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2028
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2029
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2030
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2031
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2032
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/left_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2033
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2034
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2035
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/right_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2036
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2037
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2038
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2039
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2040
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2041
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2042
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2043
+      },
+      "model": "modelengine:nocsy_drakonin_baby2/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2044
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2045
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2046
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2047
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2048
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2049
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/right_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2050
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2051
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2052
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2053
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2054
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2055
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2056
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2057
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2058
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2059
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2060
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2061
+      },
+      "model": "modelengine:nocsy_drakonin_baby3/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2062
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2063
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2064
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/right_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2065
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2066
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2067
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2068
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2069
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2070
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2071
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2072
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2073
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2074
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2075
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2076
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2077
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2078
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2079
+      },
+      "model": "modelengine:nocsy_drakonin_baby4/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2080
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2081
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2082
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2083
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2084
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2085
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2086
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2087
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2088
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2089
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/machoire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2090
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2091
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/left_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2092
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2093
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2094
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/right_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2095
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2096
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2097
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2098
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2099
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2100
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2101
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2102
+      },
+      "model": "modelengine:nocsy_drakonin_baby5/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2103
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2104
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2105
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/right_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2106
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2107
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2108
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2109
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2110
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2111
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2112
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2113
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2114
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2115
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2116
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2117
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2118
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2119
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2120
+      },
+      "model": "modelengine:nocsy_drakonin_baby6/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2121
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2122
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2123
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2124
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2125
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2126
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2127
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2128
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2129
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2130
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2131
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/left_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2132
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2133
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2134
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/right_tibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2135
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2136
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2137
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2138
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2139
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2140
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2141
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2142
+      },
+      "model": "modelengine:nocsy_drakonin_baby7/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2143
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2144
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/left_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2145
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2146
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/left_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2147
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/right_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2148
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/right_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2149
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/right_wing_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2150
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2151
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2152
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/horn_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2153
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/horn_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2154
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/left_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2155
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/left_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2156
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/left_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2157
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/right_backleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2158
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/right_backtibia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2159
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/right_backfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2160
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2161
+      },
+      "model": "modelengine:nocsy_drakonin_baby8/tail_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3000
+      },
+      "model": "modelengine:nocsy_drakonin_egg/egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3001
+      },
+      "model": "modelengine:nocsy_drakonin_egg/shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4000
+      },
+      "model": "modelengine:nocsy_drakonin_firespell/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4001
+      },
+      "model": "modelengine:nocsy_drakonin_firespell/second_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4002
+      },
+      "model": "modelengine:nocsy_drakonin_poisoncloud/groundbone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4003
+      },
+      "model": "modelengine:nocsy_drakonin_poisoncloud/spell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4004
+      },
+      "model": "modelengine:nocsy_drakonin_rocks/spell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4005
+      },
+      "model": "modelengine:nocsy_drakonin_roots/root_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4006
+      },
+      "model": "modelengine:nocsy_drakonin_roots/root_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4007
+      },
+      "model": "modelengine:nocsy_drakonin_shadowspell/meteor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4008
+      },
+      "model": "modelengine:nocsy_drakonin_tornado/tornado"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4009
+      },
+      "model": "modelengine:nocsy_drakonin_tornado/bottom_part"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4010
+      },
+      "model": "modelengine:nocsy_drakonin_tornado/ring_big"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4011
+      },
+      "model": "modelengine:nocsy_drakonin_tornado/ring_tiny"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4012
+      },
+      "model": "modelengine:nocsy_drakonin_water_geyser/main_geyser"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4013
+      },
+      "model": "modelengine:nocsy_drakonin_water_geyser/poof_water"
+    }, 
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:mobs/dragon/dragon_base"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:mobs/dragon/dragon_wing_left"},
+    {"predicate": { "custom_model_data": 18003}, "model": "magic:mobs/dragon/dragon_wing_right"},
+    {"predicate": { "custom_model_data": 18004}, "model": "magic:wands/staff_survival_colorable"}
+  ]
+}
