@@ -1,6 +1,11 @@
 {
-    "parent": "item/template_spawn_egg",
+	"parent": "minecraft:item/generated",
+	"textures": {
+	  "layer0": "minecraft:item/paper"
+	},
+  
 	"overrides": [
-		{"predicate": {"custom_model_data":95500}, "model": "item/pig_spawn_egg/drakonins/nocsy_drakonin_egg"}
+	  {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/brushes/copy"},
+	  {"predicate": {"custom_model_data": 95500}, "model": "item/pig_spawn_egg/drakonins/nocsy_drakonin_egg"}
 	]
-}
+  }
